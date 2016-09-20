@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: htmlwidget\n"
+"POT-Creation-Date: 2016-09-20 02:33+0300\n"
+"PO-Revision-Date: 2016-09-20 02:50+0300\n"
+"Last-Translator: Nikos M. <nikosms0@gmail.com>\n"
+"Language-Team: Nikos M. <nikosms0@gmail.com>\n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: classes\n"
+"X-Poedit-SearchPathExcluded-1: i18n\n"
+"X-Poedit-SearchPathExcluded-2: syhi\n"
+
+#: plugin.php:176
+msgid "CSS Class"
+msgstr "Κλάση CSS"
+
+#: plugin.php:302
+msgid "Templates"
+msgstr "Πρότυπα"
+
+#: plugin.php:303
+msgid "Template"
+msgstr "Πρότυπο"
+
+#: plugin.php:304
+msgid "Add New"
+msgstr "Νέα Προσθήκη"
+
+#: plugin.php:305
+msgid "Add New Template"
+msgstr "Προσθήκη Νέου Προτύπου"
+
+#: plugin.php:306
+msgid "Edit Template"
+msgstr "Επεξεργασία Προτύπου"
+
+#: plugin.php:307
+msgid "New Template"
+msgstr "Νέο Πρότυπο"
+
+#: plugin.php:308
+msgid "View Template"
+msgstr "Προβολή Προτύπου"
+
+#: plugin.php:309
+msgid "Search Template"
+msgstr "Αναζήτηση Προτύπου"
+
+#: plugin.php:310
+msgid "No templates have been added yet"
+msgstr "Δεν υπαρχουν Πρότυπα"
+
+#: plugin.php:311
+msgid "Nothing found in Trash"
+msgstr "Δε βρέθηκε τίποτα"
+
+#: plugin.php:330
+msgid "Template Tags"
+msgstr "Ετικέτες Πρότυπαυ"
+
+#: plugin.php:331 plugin.php:340
+msgid "Template Tag"
+msgstr "Ετικέτα Πρότυπου"
+
+#: plugin.php:332
+msgid "Search Template Tags"
+msgstr "Αναζήτηση Ετικέτας Προτύπου"
+
+#: plugin.php:333
+msgid "All Template Tags"
+msgstr "Όλες οι Ετικέτας Πρότυπων"
+
+#: plugin.php:334
+msgid "Parent Template Tag"
+msgstr "Υπερ-Ετικέτα Προτύπου"
+
+#: plugin.php:335
+msgid "Parent Template Tag:"
+msgstr "Υπερ-Ετικέτα Προτύπου:"
+
+#: plugin.php:336
+msgid "Edit Template Tag"
+msgstr "Επεξεργασία ΠΕτικέτας ροτύπου"
+
+#: plugin.php:337
+msgid "Update Template Tag"
+msgstr "Ανανέωση Ετικέτας Προτύπου"
+
+#: plugin.php:338
+msgid "Add New Template Tag"
+msgstr "Προσθήκη Νέας Ετικέτας Προτύπου"
+
+#: plugin.php:339
+msgid "New Template Tag Name"
+msgstr "Μέο Όνομα Ετικέτας Προτύπου"
